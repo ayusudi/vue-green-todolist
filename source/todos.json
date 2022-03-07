@@ -1,0 +1,6 @@
+[ 
+  { "todo": "Lulus dari Phase 1", "isDone": true, "deadline": "2022-02-28" },
+  { "todo": "Semangat di Phase 2", "isDone": true, "deadline": "2022-03-28" },
+  { "todo": "Belajar Vue", "isDone": false, "deadline": "2022-03-28" },
+  { "todo": "Belajar Vue Dirrective", "isDone": false, "deadline": "2022-03-28" }
+]
